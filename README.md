@@ -1,4 +1,4 @@
-# maven_HelloWord ?
+# Maven_HelloWord ?
 
 is a Maven  project for testing;
 
