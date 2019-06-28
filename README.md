@@ -1,27 +1,5 @@
-# maven_hello_word ?
+This is a packaged jar
 
-is a Maven  project for testing;
+Pull
 
-Test the CI/CD release process Or other tests；
-
-
-# Run conditions ?
-  JAVA support is required;
-
-
-# How to run ?
-  sudo java -jar <name.jar>
-  
-  Prompt:Listen on 8080 by default;
-  
-  Add custom listener ports？
-  
-  sudo java -jar <name.jar> --server.port=8080
-  
-  
-# How to access ？
-  http://hostip:port
-
-  For example, host IP: 192.168.88.100；
-  
-  http://192.168.88.100:8080
+git clone --progress --branch jar_pkg_v1.0 -v "https://github.com/Kry1702/Maven_HelloWord.git" "G:\Git\maven\jar"
